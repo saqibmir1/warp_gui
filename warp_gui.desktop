@@ -1,6 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Exec=/home/sisyphus/.local/share/applications/warp_gui/warp_gui.py
-Icon=/home/sisyphus/.local/share/applications/warp_gui/warp_gui.png
-Name=WARP GUI
-Type=Application
